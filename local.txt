@@ -4,4 +4,4 @@ ls -l ; df -h
 ls - al && la -ll
 read -p "youe name" name
 read -p "Enter your number"
-var = Name
+var = Name, Aniket
