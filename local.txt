@@ -3,7 +3,4 @@ echo "hello world"
 ls -l ; df -h
 ls - al && la -ll
 read -p "youe name" name
-var = Name Aniket
-read -p "Enter your number"
-var = Name, Aniket
 
