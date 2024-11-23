@@ -1,3 +1,4 @@
 #!/bin/bash 
 echo "hello world"
 ls -l ; df -h
+ls - al && la -ll
