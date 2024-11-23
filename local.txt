@@ -6,3 +6,4 @@ read -p "youe name" name
 aniketgirigoud
 aniket girigoud
 from belgavi tq athani
+maharasyra
